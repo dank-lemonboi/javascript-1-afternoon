@@ -66,7 +66,7 @@ function welcome() {
   What are all the falsy values in JavaScript and how do you check if something is falsy?
 */
 
-"undefined, null, NaN, 0, /"/""
+"undefined, null, NaN, 0, /"/", false"
 
 
 ////////// PROBLEM 6 //////////
